@@ -9,6 +9,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Gradient Boosting Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/gbm.py) | Data: `pima_diabetes`
 + [XGBoost](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/xgboost.py) | Data: `pima_diabetes`
 + [Light GBM](https://github.com/gungorMetehan/ml-from-scratch-examples/blob/main/Python-codes/lightgbm.py) | Data: `pima_diabetes`
++ [CatBoost](https://github.com/gungorMetehan/ml-from-scratch-examples/blob/main/Python-codes/catboost.py) | Data: `pima_diabetes` 
 + [Random Forest (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/random_forest.py) | Data: `faces`
 + [Random Forest (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/random_forest_regression.py) | Data: `california_housing`
 + [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/simple_linear_regression.py) | Data: `diabetes`
