@@ -3,51 +3,51 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 
 ## **Python Examples**
 
-+ [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/splitting_data.py) | Data: `iris`
-+ [k-Nearest Neighbors Algorithm (Binary)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/knn_binary.py) | Data: `breast_cancer`
-+ [CART - Decision Tree (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/dtree_classification.py) | Data: `iris`
-+ [Gradient Boosting Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/gbm.py) | Data: `pima_diabetes`
-+ [XGBoost](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/xgboost.py) | Data: `pima_diabetes`
-+ [Light GBM](https://github.com/gungorMetehan/ml-from-scratch-examples/blob/main/Python-codes/lightgbm.py) | Data: `pima_diabetes`
-+ [CatBoost](https://github.com/gungorMetehan/ml-from-scratch-examples/blob/main/Python-codes/catboost.py) | Data: `pima_diabetes` 
-+ [Random Forest (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/random_forest.py) | Data: `faces`
-+ [Random Forest (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/random_forest_regression.py) | Data: `california_housing`
-+ [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/simple_linear_regression.py) | Data: `diabetes`
-+ [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/multiple_linear_regression.py) | Data: `diabetes`
-+ [Multinomial Logistic Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/multi_logistic_regression.py) | Data: `heart_disease`
-+ [Polynomial Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/polynomial_regression.py) | Data: `california_housing`
-+ [MLP Neural Network (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/mlp.py) | Data: `Hitters`
-+ [Lasso Regression (L1 Regularization)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lasso_regression.py) | Data: `Hitters`
-+ [Ridge Regression (L2 Regularization)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/ridge_regression.py) | Data: `Hitters`
-+ [Elastic Net](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/elasticnet.py) | Data: `Hitters`
-+ [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/naive_bayes.py) | Data: `iris`
-+ [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/SVM.py) | Data: `digits`
-+ [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/kmeans_clustering.py) | Data: Generated via `sklearn.datasets`
-+ [Hierarchical Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/hierarchical_clustering.py) | Data: Generated via `sklearn.datasets`
-+ [DBSCAN](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/dbscan.py) | Data: Generated via `sklearn.datasets`
-+ [Principal Component Analysis (PCA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca.py) | Data: `iris`
-+ [Linear Discriminant Analysis (LDA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lda.py) | Data: `MNIST`
-+ [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/tsne.py) | Data: `MNIST`
-+ [PCA versus LDA](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca_versus_lda.py) | Data: `iris`
-+ [Grid Search CV versus Randomized Search CV (Over kNN)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_KNN.py) | Data: `iris`
-+ [Grid Search CV versus Randomized Search CV (Over Decision Trees)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_DT.py) | Data: `iris`
-+ [Grid Search CV versus Randomized Search CV (Over SVM)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_SVM.py) | Data: `iris`
-+ [Clustering Algorithms Comparison](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/clustering_algorithms_comparison.py) | Data: Generated via `sklearn.datasets`
++ [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/splitting_data.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [k-Nearest Neighbors Algorithm (Binary)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/knn_binary.py) | <img src="https://img.shields.io/badge/Dataset-breast__cancer-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [CART - Decision Tree (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/dtree_classification.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Gradient Boosting Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/gbm.py) | <img src="https://img.shields.io/badge/Dataset-pima__diabetes-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [XGBoost](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/xgboost.py) | <img src="https://img.shields.io/badge/Dataset-pima__diabetes-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Light GBM](https://github.com/gungorMetehan/ml-from-scratch-examples/blob/main/Python-codes/lightgbm.py) | <img src="https://img.shields.io/badge/Dataset-pima__diabetes-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [CatBoost](https://github.com/gungorMetehan/ml-from-scratch-examples/blob/main/Python-codes/catboost.py) | <img src="https://img.shields.io/badge/Dataset-pima__diabetes-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Random Forest (Classification)](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/Python-codes/random_forest.py) | <img src="https://img.shields.io/badge/Dataset-faces-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Random Forest (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/random_forest_regression.py) | <img src="https://img.shields.io/badge/Dataset-california__housing-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/simple_linear_regression.py) | <img src="https://img.shields.io/badge/Dataset-diabetes-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/multiple_linear_regression.py) | <img src="https://img.shields.io/badge/Dataset-diabetes-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Multinomial Logistic Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/multi_logistic_regression.py) | <img src="https://img.shields.io/badge/Dataset-heart__disease-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Polynomial Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/polynomial_regression.py) | <img src="https://img.shields.io/badge/Dataset-california__housing-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [MLP Neural Network (Regression)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/mlp.py) | <img src="https://img.shields.io/badge/Dataset-Hitters-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Lasso Regression (L1 Regularization)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lasso_regression.py) | <img src="https://img.shields.io/badge/Dataset-Hitters-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Ridge Regression (L2 Regularization)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/ridge_regression.py) | <img src="https://img.shields.io/badge/Dataset-Hitters-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Elastic Net](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/elasticnet.py) | <img src="https://img.shields.io/badge/Dataset-Hitters-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/naive_bayes.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/SVM.py) | <img src="https://img.shields.io/badge/Dataset-digits-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/kmeans_clustering.py) | <img src="https://img.shields.io/badge/Dataset-Generated_via_sklearn.datasets-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Hierarchical Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/hierarchical_clustering.py) | <img src="https://img.shields.io/badge/Dataset-Generated_via_sklearn.datasets-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [DBSCAN](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/dbscan.py) | <img src="https://img.shields.io/badge/Dataset-Generated_via_sklearn.datasets-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Principal Component Analysis (PCA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Linear Discriminant Analysis (LDA)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/lda.py) | <img src="https://img.shields.io/badge/Dataset-MNIST-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/tsne.py) | <img src="https://img.shields.io/badge/Dataset-MNIST-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [PCA versus LDA](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/pca_versus_lda.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Grid Search CV versus Randomized Search CV (Over kNN)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_KNN.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Grid Search CV versus Randomized Search CV (Over Decision Trees)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_DT.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Grid Search CV versus Randomized Search CV (Over SVM)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/grid_search_vs_randomized_search_cv_SVM.py) | <img src="https://img.shields.io/badge/Dataset-iris-3776AB?logo=databricks&logoColor=white" align="center"/>
++ [Clustering Algorithms Comparison](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/Python-codes/clustering_algorithms_comparison.py) | <img src="https://img.shields.io/badge/Dataset-Generated_via_sklearn.datasets-3776AB?logo=databricks&logoColor=white" align="center"/>
 
 
 ## **R Examples**
 
-+ [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/splitting_data.R) | Data: `iris`
-+ [k-Nearest Neighbors Algorithm (Binary)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/knn_binary.R) | Data: `BreastCancer`
-+ [k-Nearest Neighbors Algorithm](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/kNN_modeling.R) | Data: `iris`
-+ [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging.R) | Data: `airquality`
-+ [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging_2.R) | Data: `penguins`
-+ [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/kMeans.R) | Data: `USArrests`
-+ [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/simple_linear_regression.R) | Data: `diabetes`
-+ [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multiple_linear_regression.R) | Data: `diabetes`
-+ [Multinomial Logistic Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multi_logistic_regression.R) | Data: `heart_disease`
-+ [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/naive_bayes.R) | Data: `iris`
-+ [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/SVM.R) | Data: `iris`
++ [Splitting Data into Training and Test Data Sets](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/splitting_data.R) | <img src="https://img.shields.io/badge/Dataset-iris-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [k-Nearest Neighbors Algorithm (Binary)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/knn_binary.R) | <img src="https://img.shields.io/badge/Dataset-BreastCancer-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [k-Nearest Neighbors Algorithm](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/kNN_modeling.R) | <img src="https://img.shields.io/badge/Dataset-iris-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging.R) | <img src="https://img.shields.io/badge/Dataset-airquality-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Bagging](https://github.com/gungorMetehan/Machine-Learning-with-Python-and-R/blob/main/R-codes/bagging_2.R) | <img src="https://img.shields.io/badge/Dataset-penguins-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [k-Means Clustering](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/kMeans.R) | <img src="https://img.shields.io/badge/Dataset-USArrests-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Simple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/simple_linear_regression.R) | <img src="https://img.shields.io/badge/Dataset-diabetes-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multiple_linear_regression.R) | <img src="https://img.shields.io/badge/Dataset-diabetes-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Multinomial Logistic Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multi_logistic_regression.R) | <img src="https://img.shields.io/badge/Dataset-heart__disease-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/naive_bayes.R) | <img src="https://img.shields.io/badge/Dataset-iris-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/SVM.R) | <img src="https://img.shields.io/badge/Dataset-iris-276DC3?logo=databricks&logoColor=white" align="center"/>
 
 
 *Note.* Contributions are very welcome. Please do not hesitate to contribute.
