@@ -48,7 +48,7 @@ In this repository, I will be sharing **R** and **Python** command-line scripts 
 + [Multiple Linear Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multiple_linear_regression.R) | <img src="https://img.shields.io/badge/Dataset-diabetes-276DC3?logo=databricks&logoColor=white" align="center"/>
 + [Multinomial Logistic Regression](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/multi_logistic_regression.R) | <img src="https://img.shields.io/badge/Dataset-heart__disease-276DC3?logo=databricks&logoColor=white" align="center"/>
 + [Naive Bayes](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/naive_bayes.R) | <img src="https://img.shields.io/badge/Dataset-iris-276DC3?logo=databricks&logoColor=white" align="center"/>
-+ [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/SVM.R) | <img src="https://img.shields.io/badge/Dataset-iris-276DC3?logo=databricks&logoColor=white" align="center"/>
++ [Support Vector Machines (Classification)](https://github.com/gungorMetehan/ML-with-Python-and-R/blob/main/R-codes/svm.R) | <img src="https://img.shields.io/badge/Dataset-iris-276DC3?logo=databricks&logoColor=white" align="center"/>
 
 
 *Note.* Contributions are very welcome. Please do not hesitate to contribute.
